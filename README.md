@@ -24,6 +24,6 @@
 
 * user  ( 手机号 )secrets.unicom_user
 
-* password (服务密码)secrets.unicom_password
+* password (服务密码)secrets.unicom_password....
 
 > 填完参数后action选择"部署到云函数"即可
